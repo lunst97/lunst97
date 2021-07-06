@@ -6,14 +6,19 @@
 <p align="left">
 <a href="https://instagram.com/lunst_stunt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lunst_stunt" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/lunst" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lunst" height="30" width="40" /></a>
+<a href="https://vk.com/stuntlove" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/vk.svg" alt="lunst" height="30" width="40" /></a>
+<a href="https://t.me/lunst97" target="blank"><img align="center" src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iaXNvLTg4NTktMSI/Pg0KPCEtLSBHZW5lcmF0b3I6IEFkb2JlIElsbHVzdHJhdG9yIDE5LjAuMCwgU1ZHIEV4cG9ydCBQbHVnLUluIC4gU1ZHIFZlcnNpb246IDYuMDAgQnVpbGQgMCkgIC0tPg0KPHN2ZyB2ZXJzaW9uPSIxLjEiIGlkPSJDYXBhXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4Ig0KCSB2aWV3Qm94PSIwIDAgNTEyIDUxMiIgc3R5bGU9ImVuYWJsZS1iYWNrZ3JvdW5kOm5ldyAwIDAgNTEyIDUxMjsiIHhtbDpzcGFjZT0icHJlc2VydmUiPg0KPGNpcmNsZSBzdHlsZT0iZmlsbDojNDFCNEU2OyIgY3g9IjI1NS45OTciIGN5PSIyNTYiIHI9IjI1NS45OTciLz4NCjxwYXRoIHN0eWxlPSJmaWxsOiMwMDkxQzg7IiBkPSJNNTEyLDI1Ni4wMDNjMC02LjIzOC0wLjIzNS0xMi40MTktMC42NzMtMTguNTQ2TDQwNS4yMjgsMTMxLjM2TDEwNi43NzIsMjQ4Ljc1OWwxMTQuMTkxLDExNC4xOTINCglsMS40OTgsNS4zOTJsMS45MzktMS45NTVsMC4wMDgsMC4wMDhsLTEuOTQ3LDEuOTQ3TDM0OC43NzgsNDk0LjY2QzQ0NC4yOTgsNDU3LjUsNTEyLDM2NC42NjMsNTEyLDI1Ni4wMDN6Ii8+DQo8cG9seWdvbiBzdHlsZT0iZmlsbDojRkZGRkZGOyIgcG9pbnRzPSIyMzEuMTM4LDI5My4zIDM0Ni44MjksMzgwLjY0NyA0MDUuMjI4LDEzMS4zNiAxMDYuNzcxLDI0OC43NTkgMTk3LjU4OCwyNzguODQgDQoJMzYzLjMzMSwxNjcuNjY0ICIvPg0KPHBvbHlnb24gc3R5bGU9ImZpbGw6I0QyRDJENzsiIHBvaW50cz0iMTk3LjU4OCwyNzguODQgMjIyLjQ2MSwzNjguMzQ0IDIzMS4xMzgsMjkzLjMgMzYzLjMzMSwxNjcuNjY0ICIvPg0KPHBvbHlnb24gc3R5bGU9ImZpbGw6I0I5QjlCRTsiIHBvaW50cz0iMjY4LjczOCwzMjEuNjg4IDIyMi40NjEsMzY4LjM0NCAyMzEuMTM4LDI5My4zICIvPg0KPGc+DQo8L2c+DQo8Zz4NCjwvZz4NCjxnPg0KPC9nPg0KPGc+DQo8L2c+DQo8Zz4NCjwvZz4NCjxnPg0KPC9nPg0KPGc+DQo8L2c+DQo8Zz4NCjwvZz4NCjxnPg0KPC9nPg0KPGc+DQo8L2c+DQo8Zz4NCjwvZz4NCjxnPg0KPC9nPg0KPGc+DQo8L2c+DQo8Zz4NCjwvZz4NCjxnPg0KPC9nPg0KPC9zdmc+DQo=" alt="lunst" height="30" width="40" /></a>
 </p>
 
 ```
 class Alexandr
+  attr_accessor :name, :birthday, :city, :language
 
-  def initialize(birthday, city)
+  def initialize(name, birthday, city, language)
+    @name = Alexandr
     @birthday = 05.03.2002
     @city = Moscow
+    @language = Russian
   end
 end
 ```
