@@ -12,7 +12,7 @@
 <a href="https://api.whatsapp.com/send?phone=79264787896&text=%D0%94%D0%BE%D0%B1%D1%80%D1%8B%D0%B9%20%D0%B4%D0%B5%D0%BD%D1%8C%2C%20%D1%8F%20%D0%BF%D0%BE%20%D0%BF%D0%BE%D0%B2%D0%BE%D0%B4%D1%83%20%D0%B2%D0%B0%D1%88%D0%B5%D0%B3%D0%BE%20%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5." target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" alt="lunst" height="30" width="40" /></a>
 </p>
 
-```
+```ruby
 class Alexandr
   attr_accessor :name, :birthday, :city, :language
 
