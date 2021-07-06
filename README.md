@@ -26,7 +26,13 @@ end
 ```
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lunst97&layout=compact)](https://github.com/lunst97)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lunst97&repo=github-readme-stats)](https://github.com/lunst97/bbq)
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lunst97&repo=bbq)](https://github.com/lunst97/bbq)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lunst97&repo=askme)](https://github.com/lunst97/askme)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lunst97&repo=khsm)](https://github.com/lunst97/khsm)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lunst97&repo=the_gallows)](https://github.com/lunst97/the_gallows)
+
 
 
 <h3 align="left">Languages and Tools:</h3>
