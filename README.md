@@ -1,6 +1,7 @@
 ![Alt Text](https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/0ce1a078538695.5f208628c0068.gif)
 <h1 align="center">Hi 👋, I'm Alexander</h1>
 <h3 align="center">Ruby on rails developer</h3>
+<h3 align="center">My [CV](https://lunst97.github.io/)</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
